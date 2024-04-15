@@ -1,0 +1,11 @@
+Django
+psycopg2-binary
+dj-rest-auth
+django-allauth
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+pillow
+channels
+daphne
+python-dotenv
